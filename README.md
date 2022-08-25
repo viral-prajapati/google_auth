@@ -30,3 +30,9 @@ This is Google authentication django web applcation using auth.
 ```bash
   $ python manage.py runserver
 ```
+
+## Reference links
+
+1 [YouTube](https://www.youtube.com/watch?v=kPTJ1uYLjgE)
+
+2 [Stackoverflow](https://stackoverflow.com/questions/11485271/google-oauth-2-authorization-error-redirect-uri-mismatch)
